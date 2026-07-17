@@ -1,0 +1,6 @@
+# Ignorar caches do Python
+**/__pycache__/
+*.pyc
+
+# Ignorar configurações locais da IDE
+.idea/

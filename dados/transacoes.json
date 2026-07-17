@@ -1,0 +1,90 @@
+[
+    {
+        "id_transacao": "WRSN9HHA",
+        "tipo_transacao": "RECEITA",
+        "categoria_transacao": "SALARIO",
+        "descricao_transacao": "SALARIO MENSAL",
+        "valor_transacao": 3500.0,
+        "data_transacao": "01/07/2026 09:00:00"
+    },
+    {
+        "id_transacao": "K7GM3XPQ",
+        "tipo_transacao": "DESPESA",
+        "categoria_transacao": "MORADIA",
+        "descricao_transacao": "ALUGUEL",
+        "valor_transacao": 1200.0,
+        "data_transacao": "02/07/2026 10:15:00"
+    },
+    {
+        "id_transacao": "B4T8LNZR",
+        "tipo_transacao": "DESPESA",
+        "categoria_transacao": "MORADIA",
+        "descricao_transacao": "CONTA DE LUZ",
+        "valor_transacao": 220.5,
+        "data_transacao": "03/07/2026 14:30:00"
+    },
+    {
+        "id_transacao": "Q9XJ2VCH",
+        "tipo_transacao": "DESPESA",
+        "categoria_transacao": "ALIMENTAÇÃO",
+        "descricao_transacao": "SUPERMERCADO",
+        "valor_transacao": 480.75,
+        "data_transacao": "05/07/2026 18:45:00"
+    },
+    {
+        "id_transacao": "M2RT7WKD",
+        "tipo_transacao": "DESPESA",
+        "categoria_transacao": "ALIMENTAÇÃO",
+        "descricao_transacao": "RESTAURANTE",
+        "valor_transacao": 95.0,
+        "data_transacao": "07/07/2026 20:00:00"
+    },
+    {
+        "id_transacao": "F5YB8NQX",
+        "tipo_transacao": "DESPESA",
+        "categoria_transacao": "TRANSPORTE",
+        "descricao_transacao": "COMBUSTIVEL",
+        "valor_transacao": 250.0,
+        "data_transacao": "08/07/2026 08:20:00"
+    },
+    {
+        "id_transacao": "H3CV6LMP",
+        "tipo_transacao": "DESPESA",
+        "categoria_transacao": "LAZER",
+        "descricao_transacao": "CINEMA",
+        "valor_transacao": 60.0,
+        "data_transacao": "10/07/2026 21:00:00"
+    },
+    {
+        "id_transacao": "D8ZK4RGT",
+        "tipo_transacao": "DESPESA",
+        "categoria_transacao": "SAUDE",
+        "descricao_transacao": "FARMACIA",
+        "valor_transacao": 89.9,
+        "data_transacao": "11/07/2026 16:10:00"
+    },
+    {
+        "id_transacao": "N6QW3XHY",
+        "tipo_transacao": "DESPESA",
+        "categoria_transacao": "OUTROS",
+        "descricao_transacao": "PRESENTE ANIVERSARIO",
+        "valor_transacao": 150.0,
+        "data_transacao": "12/07/2026 12:00:00"
+    },
+    {
+        "id_transacao": "FMRATKG5",
+        "tipo_transacao": "DESPESA",
+        "categoria_transacao": "SAUDE",
+        "descricao_transacao": "MEDICAMENTO",
+        "valor_transacao": 249.0,
+        "data_transacao": "16/07/2026 21:11:49"
+    },
+    {
+        "id_transacao": "AJA9PUAZ",
+        "tipo_transacao": "RECEITA",
+        "categoria_transacao": "OUTROS",
+        "descricao_transacao": "PIX",
+        "valor_transacao": 200.0,
+        "data_transacao": "16/07/2026 21:15:38"
+    }
+]
